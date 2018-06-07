@@ -21,7 +21,7 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"goimports-no-blank-line/imports"
+	"github.com/hannut91/goimports-no-blank-line/imports"
 )
 
 var (
